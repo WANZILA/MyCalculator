@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My  Calc</string>
+    <string name="calc">Calculator</string>
+    <string name="enter_first_num">Enter First Number</string>
+    <string name="enter_second_num">Enter Second Number</string>
+    <string name="add_num">+</string>
+    <string name="substract_num">-</string>
+    <string name="multiply_num">*</string>
+    <string name="divide_num">%</string>
+</resources>
